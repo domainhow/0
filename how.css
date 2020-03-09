@@ -295,7 +295,7 @@ a{
   color: white;
 }
 
-#popup-article:target {
+#about:target {
   display: flex;
 }
 
